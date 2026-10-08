@@ -7,8 +7,8 @@ A simple mobile application for restaurant staff to manage the entry waitlist on
 1. Open an Android emulator or iOS simulator on your machine.
 2. Clone this repository and navigate into the project directory:
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_LINK>
-   cd restaurant_waitlist_app_aghar
+([https://github.com/cybernetixs06-bot/restaurant_waitlist_app_aghar.git]
+(https://github.com/cybernetixs06-bot/restaurant_waitlist_app_aghar.git))
 
 Technology & Data Storage Choice
 I chose Flutter because it allows fast cross-platform mobile development with
